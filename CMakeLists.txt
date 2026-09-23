@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 4.3)
+project(untitled1)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(es2 es2.c)
+add_executable(es3 es3.c)
+add_executable(es4 es4.c)
+add_executable(es5 es5.c)
+add_executable(es6 es6.c)
+add_executable(es7 es7.c)
+add_executable(es8 es8.c)
+add_executable(es9 es9.c)
+add_executable(es10 es10.c)
+
+add_executable(1r 1r.c)
+add_executable(2r 2r.c)
+add_executable(3r 3r.c)
+add_executable(4r 4r.c)
+add_executable(5r 5r.c)
