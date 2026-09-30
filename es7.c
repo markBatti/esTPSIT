@@ -9,7 +9,7 @@ int main() {
         lun++;
     printf("Stringa invertita ");
     for (int i = lun - 1; i >= 0; i--)
-        putchar(s[i]);
-    putchar('\n');
+        printf("%c",s[i]);
+    printf("\n");
     return 0;
 }

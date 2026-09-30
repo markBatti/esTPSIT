@@ -18,3 +18,7 @@ add_executable(2r 2r.c)
 add_executable(3r 3r.c)
 add_executable(4r 4r.c)
 add_executable(5r 5r.c)
+add_executable(6r 6r.c)
+
+add_executable(es15 es15.c)
+add_executable(es16 es16.c)

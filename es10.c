@@ -6,8 +6,8 @@ int main() {
     scanf("%d", &n);
     for (int riga = 1; riga <= n; riga++) {
         for (int k = 0; k < riga; k++)
-            putchar('*');
-        putchar('\n');
+            printf("*");
+        printf("\n");
     }
     return 0;
 }
